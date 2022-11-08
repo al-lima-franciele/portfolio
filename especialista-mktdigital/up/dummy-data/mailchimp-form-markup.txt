@@ -1,0 +1,3 @@
+<label>Email address </label>
+<input type="email" class="subscribe-email" name="EMAIL" placeholder="Your email"/>
+<input type="submit" class="subscribe-submit" value="">

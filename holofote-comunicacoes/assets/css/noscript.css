@@ -1,0 +1,12 @@
+/* Header */
+/* line 14, ../sass/noscript.scss */
+body.is-preload #header.alt > * {
+  opacity: 1; }
+/* line 18, ../sass/noscript.scss */
+body.is-preload #header.alt .logo {
+  -moz-transform: none;
+  -webkit-transform: none;
+  -ms-transform: none;
+  transform: none; }
+
+/*# sourceMappingURL=noscript.css.map */
